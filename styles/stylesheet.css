@@ -1,0 +1,49 @@
+*{
+    font-family: 'Oxygen', sans-serif;   
+    color: black;
+}
+p {
+    font-size: 18px;
+}
+header {
+    color: blue;  
+    text-align: center;
+}
+header li {
+    list-style-type: none;
+    margin-right: 40px;
+    display: inline-block;
+}
+header nav {
+    height: 30px;
+    width: 100%;
+}
+header nav ul li a{
+    font-size: 30px;
+}
+header img{
+    width: 60px;
+    height: 60px;
+}
+.instructor-box {
+    margin: 10px 20px 10px 100px;
+    clear: both;
+    width: 800px;
+}
+article {
+    margin: 10px 20px 10px 200px; 
+    width: 900px;
+    
+}
+article p {
+   text-align: left; 
+}
+article h3 {
+    font-size: 20px;
+    font-weight: 300;
+}
+.instruction-video {
+    width: 200px;
+    text-align: left;
+    margin: 20px 20px;
+}
